@@ -129,4 +129,4 @@ To use:
 
 ## DEVELOPER 
 SIDDHARTH RAGHUNATHA SHETTY 
-![Linked in](https://www.linkedin.com/in/siddharth-shetty-657797283/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo%2BHt9X6SShmxtmjUNL0UJA%3D%3D)
+[Linked in](https://www.linkedin.com/in/siddharth-shetty-657797283/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo%2BHt9X6SShmxtmjUNL0UJA%3D%3D)
