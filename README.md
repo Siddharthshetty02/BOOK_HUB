@@ -4,8 +4,6 @@ Provides the book (digital copy) for reading for free!!!
 
 A full-stack application with FastAPI backend and Streamlit frontend for managing your personal book collection with ratings and progress tracking.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Book+Management+App+Screenshot)
-
 ## Features
 
 - 🔐 **User Authentication**
@@ -131,4 +129,4 @@ To use:
 
 ## DEVELOPER 
 SIDDHARTH RAGHUNATHA SHETTY 
-![](https://www.linkedin.com/in/siddharth-shetty-657797283/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo%2BHt9X6SShmxtmjUNL0UJA%3D%3D)
+![Linked in](https://www.linkedin.com/in/siddharth-shetty-657797283/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo%2BHt9X6SShmxtmjUNL0UJA%3D%3D)
